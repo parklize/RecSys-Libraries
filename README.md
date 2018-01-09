@@ -3,6 +3,7 @@ A list of libraries for recommender systems. Feel free to send a request to add/
 
 | Name  | Language |  Type  | License  | Reference |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [python-recsys](https://github.com/ocelma/python-recsys)  | python  | RS  |   |   |
 | [tffm](https://github.com/geffy/tffm)  | python (Tensorflow)  | RS  | MIT  |   |
 | [libFM](http://www.libfm.org/)  | C++  | ML  | GPL  | Steffen Rendle (2012): Factorization Machines with libFM, in ACM Trans. Intell. Syst. Technol., 3(3), May  |
 | [fastFM](https://github.com/ibayer/fastFM/)  | python  | ML  |   | Bayer, Immanuel. "fastFM: A library for factorization machines." Journal of Machine Learning Research 17.184 (2016): 1-5.  |
