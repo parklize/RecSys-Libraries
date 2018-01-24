@@ -17,6 +17,7 @@ A list of libraries for recommender systems. Feel free to send a request to add/
 | [CARSKit](https://github.com/irecsys/CARSKit)  | java  | RS (CARS)  | GPL  | Yong Zheng, Bamshad Mobasher, Robin Burke. "CARSKit: A Java-Based Context-aware Recommendation Engine", Proceedings of the 15th IEEE International Conference on Data Mining (ICDM) Workshops, pp. 1668-1671, Atlantic City, NJ, USA, Nov 2015  |
 | [LODRecLib](https://github.com/sisinflab/lodreclib)  | java  | RS (LOD)  | MIT  | Noia, Tommaso Di, et al. "Sprank: Semantic path-based ranking for top-n recommendations using linked open data." ACM Transactions on Intelligent Systems and Technology (TIST) 8.1 (2016): 9.  |
 | [RankLib](https://sourceforge.net/p/lemur/wiki/RankLib/)  | java  | RS | BSD  |   |
+| [OpenLearning4DeepRecSys](https://github.com/Leavingseason/OpenLearning4DeepRecsys)  | python (Tensorflow)  | RS |   |   |
 
 - RS: Recommender System
 - ML: Machine Learning
