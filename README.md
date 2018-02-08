@@ -5,6 +5,7 @@ A list of libraries for recommender systems. Feel free to send a request to add/
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [OpenLearning4DeepRecSys](https://github.com/Leavingseason/OpenLearning4DeepRecsys)  | python (Tensorflow)  | RS |   |   |
 | [OpenRec](http://openrec.ai/)  | python| RS | Apache 2.0  | Longqi Yang, Eugene Bagdasaryan, Joshua Gruenstein, Cheng-Kang Hsieh, and Deborah Estrin. 2018. OpenRec: A Modular Framework for Extensible and Adaptable Recommendation Algorithms. In Proceedings of WSDM’18, February 5–9, 2018, Marina Del Rey, CA, USA |
+| [TensorRec](https://github.com/jfkirk/tensorrec)  | python (Tensorflow)  | RS  | Apache 2.0  |   |
 | [tffm](https://github.com/geffy/tffm)  | python (Tensorflow)  | RS  | MIT  |   |
 | [python-recsys](https://github.com/ocelma/python-recsys)  | python  | RS  |   |   |
 | [fastFM](https://github.com/ibayer/fastFM/)  | python  | ML  |   | Bayer, Immanuel. "fastFM: A library for factorization machines." Journal of Machine Learning Research 17.184 (2016): 1-5.  |
@@ -12,6 +13,7 @@ A list of libraries for recommender systems. Feel free to send a request to add/
 | [Mahout](http://mahout.apache.org/)  | java  | ML  | Apache 2.0  |   |
 | [LibRec](https://github.com/guoguibing/librec)  | java  | RS  | GPL  | Guo, Guibing, et al. "LibRec: A Java Library for Recommender Systems." UMAP Workshops. 2015.  |
 | [LensKit](http://lenskit.org/)  | java  | RS  | LGPL  | Ekstrand, Michael D., et al. "LensKit: a modular recommender framework." Proceedings of the fifth ACM conference on Recommender systems. ACM, 2011.  |
+| [rival](http://rival.recommenders.net/)  | java  | RS  | Apache 2.0  |  |
 | [EasyRec](http://easyrec.org/home)  | java  | RS  | GPL  |   |
 | [Crab](http://muricoca.github.io/crab/)  | java  | RS  | BSD  |   |
 | [CARSKit](https://github.com/irecsys/CARSKit)  | java  | RS (CARS)  | GPL  | Yong Zheng, Bamshad Mobasher, Robin Burke. "CARSKit: A Java-Based Context-aware Recommendation Engine", Proceedings of the 15th IEEE International Conference on Data Mining (ICDM) Workshops, pp. 1668-1671, Atlantic City, NJ, USA, Nov 2015  |
