@@ -18,7 +18,7 @@ A list of libraries for recommender systems. Feel free to send a request to add/
 | [LODRecLib](https://github.com/sisinflab/lodreclib)  | java  | RS (LOD)  | MIT  | Noia, Tommaso Di, et al. "Sprank: Semantic path-based ranking for top-n recommendations using linked open data." ACM Transactions on Intelligent Systems and Technology (TIST) 8.1 (2016): 9.  |
 | [RankLib](https://sourceforge.net/p/lemur/wiki/RankLib/)  | java  | RS | BSD  |   |
 | [OpenLearning4DeepRecSys](https://github.com/Leavingseason/OpenLearning4DeepRecsys)  | python (Tensorflow)  | RS |   |   |
-| [OpenRec](http://openrec.ai/)  | python| RS | Apache 2.0  ||
+| [OpenRec](http://openrec.ai/)  | python| RS | Apache 2.0  | Longqi Yang, Eugene Bagdasaryan, Joshua Gruenstein, Cheng-Kang Hsieh, and Deborah Estrin. 2018. OpenRec: A Modular Framework for Extensible and Adaptable Recommendation Algorithms. In Proceedings of WSDM’18, February 5–9, 2018, Marina Del Rey, CA, USA |
 
 - RS: Recommender System
 - ML: Machine Learning
