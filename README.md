@@ -21,6 +21,7 @@ A list of libraries for recommender systems. Feel free to send a request to add/
 | [RankLib](https://sourceforge.net/p/lemur/wiki/RankLib/)  | java  | RS | BSD  |   |
 | [libFM](http://www.libfm.org/)  | C++  | ML  | GPL  | Steffen Rendle (2012): Factorization Machines with libFM, in ACM Trans. Intell. Syst. Technol., 3(3), May  |
 | [MyMedialite](http://mymedialite.net/)  | C#  | RS  | GPL  | Gantner, Zeno, et al. "MyMediaLite: A free recommender system library." Proceedings of the fifth ACM conference on Recommender systems. ACM, 2011.  |
+| [LightFM](https://github.com/lyst/lightfm)  | python  | RS | Apache 2.0  | Maciej Kula, Metadata Embeddings for User and Item Cold-start Recommendations. Proceedings of the 2nd Workshop on New Trends on Content-Based Recommender Systems co-located with 9th {ACM} Conference on Recommender Systems (RecSys 2015), Vienna, Austria, September 16-20, 2015.  |
 
 - RS: Recommender System
 - ML: Machine Learning
