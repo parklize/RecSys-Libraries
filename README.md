@@ -3,7 +3,7 @@ A list of libraries for recommender systems. Feel free to send a request to add/
 
 | Name  | Language |  Type  | License  | Reference |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Tensorflow Recommenders](https://github.com/tensorflow/recommenders) | Tensorflow | RS|  Apache-2.0 License | |
+| [Tensorflow Recommenders](https://github.com/tensorflow/recommenders) | Tensorflow | RS|  Apache-2.0  | |
 | [OpenLearning4DeepRecSys](https://github.com/Leavingseason/OpenLearning4DeepRecsys)  | python (Tensorflow)  | RS |   |   |
 | [OpenRec](http://openrec.ai/)  | python| RS | Apache 2.0  | Longqi Yang, Eugene Bagdasaryan, Joshua Gruenstein, Cheng-Kang Hsieh, and Deborah Estrin. 2018. OpenRec: A Modular Framework for Extensible and Adaptable Recommendation Algorithms. In Proceedings of WSDM’18, February 5–9, 2018, Marina Del Rey, CA, USA |
 | [TensorRec](https://github.com/jfkirk/tensorrec)  | python (Tensorflow)  | RS  | Apache 2.0  |   |
