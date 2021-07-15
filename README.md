@@ -3,6 +3,7 @@ A list of libraries for recommender systems. Feel free to send a request to add/
 
 | Name  | Language |  Type  | License  | Reference |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [ELLIOT](https://github.com/sisinflab/elliot) | Tensorflow | RS|  Apache 2.0  | |
 | [Tensorflow Recommenders](https://github.com/tensorflow/recommenders) | Tensorflow | RS|  Apache 2.0  | |
 | [DeepCTR](https://github.com/shenweichen/deepctr) | python | ML |  Apache 2.0  | Weichen Shen, DeepCTR: Easy-to-use,Modular and Extendible package of deep-learning based CTR models, 2017|
 | [OpenLearning4DeepRecSys](https://github.com/Leavingseason/OpenLearning4DeepRecsys)  | python (Tensorflow)  | RS |   |   |
