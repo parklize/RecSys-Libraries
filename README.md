@@ -3,6 +3,7 @@ A list of libraries for recommender systems. Feel free to send a request to add/
 
 | Name  | Language |  Type  | License  | Reference |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [QRec](https://github.com/Coder-Yu/QRec) | Tensorflow | RS|   | |
 | [ELLIOT](https://github.com/sisinflab/elliot) | Tensorflow | RS|  Apache 2.0  |Anelli, Vito Walter and Bellogin, Alejandro and Ferrara, Antonio and Malitesta, Daniele and Merra, Felice Antonio and Pomo, Claudio and Donini, Francesco Maria and Di Noia, Tommaso, Elliot: A Comprehensive and Rigorous Framework for Reproducible Recommender Systems Evaluation, SIGIR'21 |
 | [Recommender-System](https://github.com/SSSxCCC/Recommender-System) | Tensorflow | RS |  MIT  ||
 | [Tensorflow Recommenders](https://github.com/tensorflow/recommenders) | Tensorflow | RS|  Apache 2.0  | |
