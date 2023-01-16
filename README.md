@@ -3,6 +3,7 @@ A list of libraries for recommender systems. Feel free to send a request to add/
 
 | Name  | Language |  Type  | License  | Reference |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [SELFRec](https://github.com/Coder-Yu/SELFRec) | Python, PyTorch and Tensorflow | SSL |   |Yu, Junliang et. al, [Self-Supervised Learning for Recommender Systems: A Survey](https://arxiv.org/abs/2203.15876) |
 | [RecBole](https://github.com/RUCAIBox/RecBole) | Python and PyTorch | RS|   MIT  | Wayne Xin Zhao et. al, RecBole: Towards a Unified, Comprehensive and Efficient Framework for Recommendation Algorithms, CIKM'21|
 | [QRec](https://github.com/Coder-Yu/QRec) | Tensorflow | RS|   | |
 | [ELLIOT](https://github.com/sisinflab/elliot) | Tensorflow | RS|  Apache 2.0  |Anelli, Vito Walter and Bellogin, Alejandro and Ferrara, Antonio and Malitesta, Daniele and Merra, Felice Antonio and Pomo, Claudio and Donini, Francesco Maria and Di Noia, Tommaso, Elliot: A Comprehensive and Rigorous Framework for Reproducible Recommender Systems Evaluation, SIGIR'21 |
