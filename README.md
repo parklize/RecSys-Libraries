@@ -32,5 +32,6 @@ A list of libraries for recommender systems. Feel free to send a request to add/
 
 - RS: Recommender System
 - ML: Machine Learning
+- SSL: Self Supervised Learning for RS
 - LOD: Linked Open Data
 - CARS: Context-Aware Recommender System
