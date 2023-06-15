@@ -3,7 +3,6 @@ A list of libraries for recommender systems. Feel free to send a request to add/
 
 | Name  | Language |  Type  | License  | Reference |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [RecBole](https://github.com/RUCAIBox/RecBole) | Python, PyTorch |RS |  MIT | [RecBole: Towards a Unified, Comprehensive and Efficient Framework for Recommendation Algorithms](https://arxiv.org/abs/2011.01731) |
 | [NeuRec](https://github.com/wubinzzu/NeuRec) | Python, Tensorflow |RS |  MIT |   |
 | [SELFRec](https://github.com/Coder-Yu/SELFRec) | Python, PyTorch and Tensorflow | SSL |   |Yu, Junliang et. al, [Self-Supervised Learning for Recommender Systems: A Survey](https://arxiv.org/abs/2203.15876) |
 | [RecBole](https://github.com/RUCAIBox/RecBole) | Python and PyTorch | RS|   MIT  | Wayne Xin Zhao et. al, RecBole: Towards a Unified, Comprehensive and Efficient Framework for Recommendation Algorithms, CIKM'21|
