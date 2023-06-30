@@ -7,7 +7,7 @@
 | [Crab](http://muricoca.github.io/crab/)  | java  | RS  | BSD  |   |
 | [CARSKit](https://github.com/irecsys/CARSKit)  | java  | RS (CARS)  | GPL  | Yong Zheng, Bamshad Mobasher, Robin Burke. "CARSKit: A Java-Based Context-aware Recommendation Engine", Proceedings of the 15th IEEE International Conference on Data Mining (ICDM) Workshops, pp. 1668-1671, Atlantic City, NJ, USA, Nov 2015  |
 | [DeepCTR](https://github.com/shenweichen/deepctr) | python | ML |  Apache 2.0  | Weichen Shen, DeepCTR: Easy-to-use,Modular and Extendible package of deep-learning based CTR models, 2017|
-| [EasyRec](http://easyrec.org/home)  | java  | RS  | GPL  |   |
+| [EasyRec](http://easyrec.org/home](https://github.com/alibaba/EasyRec)  | Python  | RS  | Apache-2.0 license  | EasyRec: An easy-to-use, extendable and efficient framework for building industrial recommendation systems, AAAI'23  |
 | [ELLIOT](https://github.com/sisinflab/elliot) | Tensorflow | RS|  Apache 2.0  |Anelli, Vito Walter and Bellogin, Alejandro and Ferrara, Antonio and Malitesta, Daniele and Merra, Felice Antonio and Pomo, Claudio and Donini, Francesco Maria and Di Noia, Tommaso, Elliot: A Comprehensive and Rigorous Framework for Reproducible Recommender Systems Evaluation, SIGIR'21 |
 | [fastFM](https://github.com/ibayer/fastFM/)  | python  | ML  |   | Bayer, Immanuel. "fastFM: A library for factorization machines." Journal of Machine Learning Research 17.184 (2016): 1-5.  |
 | [RecBole](https://github.com/RUCAIBox/RecBole) | Python and PyTorch | RS|   MIT  | Wayne Xin Zhao et. al, RecBole: Towards a Unified, Comprehensive and Efficient Framework for Recommendation Algorithms, CIKM'21|
