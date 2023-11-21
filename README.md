@@ -20,11 +20,9 @@
 | [MyMedialite](http://mymedialite.net/)  | C#  | RS  | GPL  | Gantner, Zeno, et al. "MyMediaLite: A free recommender system library." Proceedings of the fifth ACM conference on Recommender systems. ACM, 2011.  |
 | [Mahout](http://mahout.apache.org/)  | Java  | ML  | Apache 2.0  |   |
 | [NeuRec](https://github.com/wubinzzu/NeuRec) | Python, Tensorflow |RS |  MIT |   |
-| [OpenLearning4DeepRecSys](https://github.com/Leavingseason/OpenLearning4DeepRecsys)  | python (Tensorflow)  | RS |   |   |
-| [OpenRec](http://openrec.ai/)  | Python| RS | Apache 2.0  | Longqi Yang, Eugene Bagdasaryan, Joshua Gruenstein, Cheng-Kang Hsieh, and Deborah Estrin. 2018. OpenRec: A Modular Framework for Extensible and Adaptable Recommendation Algorithms. In Proceedings of WSDM’18, February 5–9, 2018, Marina Del Rey, CA, USA |
-| [python-recsys](https://github.com/ocelma/python-recsys)  | python  | RS  |   |   |
+| [OpenLearning4DeepRecSys](https://github.com/Leavingseason/OpenLearning4DeepRecsys)  | Python, Tensorflow  | RS |   |   |
+| [python-recsys](https://github.com/ocelma/python-recsys)  | Python  | RS  |   |   |
 | [QRec](https://github.com/Coder-Yu/QRec) | Tensorflow | RS|   | |
-| [rival](http://rival.recommenders.net/)  | Java  | RS  | Apache 2.0  |  |
 | [Recommender-System](https://github.com/SSSxCCC/Recommender-System) | Tensorflow | RS |  MIT  ||
 | [RankSys](https://github.com/RankSys/RankSys)  | Java  | RS  |  MPL | https://github.com/RankSys/RankSys/wiki/References  |
 | [RankLib](https://sourceforge.net/p/lemur/wiki/RankLib/)  | java  | RS | BSD  |   |
