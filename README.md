@@ -4,7 +4,7 @@
 
 | Name  | Language |  Type  | License  | Reference |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Crab](http://muricoca.github.io/crab/)  | Java  | RS  | BSD  |   |
+| [Crab](http://muricoca.github.io/crab/)  | Python  | RS  | BSD  |   |
 | [CARSKit](https://github.com/irecsys/CARSKit)  | Java  | RS (CARS)  | GPL  | Yong Zheng, Bamshad Mobasher, Robin Burke. "CARSKit: A Java-Based Context-aware Recommendation Engine", Proceedings of the 15th IEEE International Conference on Data Mining (ICDM) Workshops, pp. 1668-1671, Atlantic City, NJ, USA, Nov 2015  |
 | [DeepCTR](https://github.com/shenweichen/deepctr) | Python | ML |  Apache 2.0  | Weichen Shen, DeepCTR: Easy-to-use,Modular and Extendible package of deep-learning based CTR models, 2017|
 | [EasyRec](https://github.com/alibaba/EasyRec)  | Python  | RS  | Apache-2.0 license  | EasyRec: An easy-to-use, extendable and efficient framework for building industrial recommendation systems, AAAI'23  |
