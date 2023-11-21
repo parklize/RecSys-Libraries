@@ -20,16 +20,16 @@
 | [MyMedialite](http://mymedialite.net/)  | C#  | RS  | GPL  | Gantner, Zeno, et al. "MyMediaLite: A free recommender system library." Proceedings of the fifth ACM conference on Recommender systems. ACM, 2011.  |
 | [Mahout](http://mahout.apache.org/)  | Java  | ML  | Apache 2.0  |   |
 | [NeuRec](https://github.com/wubinzzu/NeuRec) | Python, Tensorflow |RS |  MIT |   |
-| [OpenLearning4DeepRecSys](https://github.com/Leavingseason/OpenLearning4DeepRecsys)  | Python, Tensorflow  | RS |   |   |
+| [OpenLearning4DeepRecSys](https://github.com/Leavingseason/OpenLearning4DeepRecsys)  | Tensorflow  | RS |   |   |
 | [python-recsys](https://github.com/ocelma/python-recsys)  | Python  | RS  |   |   |
 | [QRec](https://github.com/Coder-Yu/QRec) | Tensorflow | RS|   | |
 | [Recommender-System](https://github.com/SSSxCCC/Recommender-System) | Tensorflow | RS |  MIT  ||
 | [RankSys](https://github.com/RankSys/RankSys)  | Java  | RS  |  MPL | https://github.com/RankSys/RankSys/wiki/References  |
-| [RankLib](https://sourceforge.net/p/lemur/wiki/RankLib/)  | java  | RS | BSD  |   |
-| [SELFRec](https://github.com/Coder-Yu/SELFRec) | Python, PyTorch and Tensorflow | SSL |   |Yu, Junliang et. al, [Self-Supervised Learning for Recommender Systems: A Survey](https://arxiv.org/abs/2203.15876) |
+| [RankLib](https://sourceforge.net/p/lemur/wiki/RankLib/)  | Java  | RS | BSD  |   |
+| [SELFRec](https://github.com/Coder-Yu/SELFRec) | PyTorch, Tensorflow | SSL |   |Yu, Junliang et. al, [Self-Supervised Learning for Recommender Systems: A Survey](https://arxiv.org/abs/2203.15876) |
 | [Tensorflow Recommenders](https://github.com/tensorflow/recommenders) | Tensorflow | RS|  Apache 2.0  | |
-| [TensorRec](https://github.com/jfkirk/tensorrec)  | Python (Tensorflow)  | RS  | Apache 2.0  |   |
-| [tffm](https://github.com/geffy/tffm)  | Python (Tensorflow)  | RS  | MIT  |   |
+| [TensorRec](https://github.com/jfkirk/tensorrec)  | Tensorflow  | RS  | Apache 2.0  |   |
+| [tffm](https://github.com/geffy/tffm)  | Tensorflow  | RS  | MIT  |   |
 
 
 - RS: Recommender System
