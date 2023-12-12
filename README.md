@@ -10,8 +10,6 @@
 | [EasyRec](https://github.com/alibaba/EasyRec)  | Python  | RS  | Apache-2.0 license  | EasyRec: An easy-to-use, extendable and efficient framework for building industrial recommendation systems, AAAI'23  |
 | [ELLIOT](https://github.com/sisinflab/elliot) | Tensorflow | RS|  Apache 2.0  |Anelli, Vito Walter and Bellogin, Alejandro and Ferrara, Antonio and Malitesta, Daniele and Merra, Felice Antonio and Pomo, Claudio and Donini, Francesco Maria and Di Noia, Tommaso, Elliot: A Comprehensive and Rigorous Framework for Reproducible Recommender Systems Evaluation, SIGIR'21 |
 | [fastFM](https://github.com/ibayer/fastFM/)  | Python  | ML  |   | Bayer, Immanuel. "fastFM: A library for factorization machines." Journal of Machine Learning Research 17.184 (2016): 1-5.  |
-| [RecBole](https://github.com/RUCAIBox/RecBole) | PyTorch | RS|   MIT  | Wayne Xin Zhao et. al, RecBole: Towards a Unified, Comprehensive and Efficient Framework for Recommendation Algorithms, CIKM'21|
-| [recommenderlab](https://github.com/mhahsler/recommenderlab) | R | RS|     | Michael Hahsler (2022) recommenderlab: An R framework for developing and testing recommendation algorithms. arXiv:2205.12371 |
 | [LightFM](https://github.com/lyst/lightfm)  | Python  | RS | Apache 2.0  | Maciej Kula, Metadata Embeddings for User and Item Cold-start Recommendations. Proceedings of the 2nd Workshop on New Trends on Content-Based Recommender Systems co-located with 9th {ACM} Conference on Recommender Systems (RecSys 2015), Vienna, Austria, September 16-20, 2015.  |
 | [LibRec](https://github.com/guoguibing/librec)  | Java  | RS  | GPL  | Guo, Guibing, et al. "LibRec: A Java Library for Recommender Systems." UMAP Workshops. 2015.  |
 | [LensKit](http://lenskit.org/)  | Java  | RS  | LGPL  | Ekstrand, Michael D., et al. "LensKit: a modular recommender framework." Proceedings of the fifth ACM conference on Recommender systems. ACM, 2011.  |
@@ -27,6 +25,8 @@
 | [Recommender-System](https://github.com/SSSxCCC/Recommender-System) | Tensorflow | RS |  MIT  ||
 | [RankSys](https://github.com/RankSys/RankSys)  | Java  | RS  |  MPL | https://github.com/RankSys/RankSys/wiki/References  |
 | [RankLib](https://sourceforge.net/p/lemur/wiki/RankLib/)  | Java  | RS | BSD  |   |
+| [RecBole](https://github.com/RUCAIBox/RecBole) | PyTorch | RS|   MIT  | Wayne Xin Zhao et. al, RecBole: Towards a Unified, Comprehensive and Efficient Framework for Recommendation Algorithms, CIKM'21|
+| [recommenderlab](https://github.com/mhahsler/recommenderlab) | R | RS|     | Michael Hahsler (2022) recommenderlab: An R framework for developing and testing recommendation algorithms. arXiv:2205.12371 |
 | [SELFRec](https://github.com/Coder-Yu/SELFRec) | PyTorch, Tensorflow | SSL |   |Yu, Junliang et. al, [Self-Supervised Learning for Recommender Systems: A Survey](https://arxiv.org/abs/2203.15876) |
 | [Tensorflow Recommenders](https://github.com/tensorflow/recommenders) | Tensorflow | RS|  Apache 2.0  | |
 | [TensorRec](https://github.com/jfkirk/tensorrec)  | Tensorflow  | RS  | Apache 2.0  |   |
