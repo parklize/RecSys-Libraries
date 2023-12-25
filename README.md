@@ -18,7 +18,7 @@
 | [MTRecLib](https://github.com/easezyc/Multitask-Recommendation-Library)  | PyTorch  | MTRS  |   | "Learning to Expand Audience via Meta Hybrid Experts and Critics for Recommendation and Advertising" KDD'21|
 | [MyMedialite](http://mymedialite.net/)  | C#  | RS  | GPL  | Gantner, Zeno, et al. "MyMediaLite: A free recommender system library." Proceedings of the fifth ACM conference on Recommender systems. ACM, 2011.  |
 | [Mahout](http://mahout.apache.org/)  | Java  | ML  | Apache 2.0  |   |
-| [MMRec](https://github.com/enoche/MMRec)  | Python  | MMRS  | GPL 3.0  |   |
+| [MMRec](https://github.com/enoche/MMRec)  | Python  | MMRS  | GPL 3.0  | Hongyu Zhou, et al. "A Comprehensive Survey on Multimodal Recommender Systems: Taxonomy, Evaluation, and Future Directions". arXiv:2302.04473  |
 | [NeuRec](https://github.com/wubinzzu/NeuRec) | Python, Tensorflow |RS |  MIT |   |
 | [OpenLearning4DeepRecSys](https://github.com/Leavingseason/OpenLearning4DeepRecsys)  | Tensorflow  | RS |   |   |
 | [python-recsys](https://github.com/ocelma/python-recsys)  | Python  | RS  |   |   |
