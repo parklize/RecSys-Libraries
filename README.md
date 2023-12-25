@@ -5,7 +5,7 @@
 | Name  | Language |  Type  | License  | Reference |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Crab](http://muricoca.github.io/crab/)  | Python  | RS  | BSD  |   |
-| [CARSKit](https://github.com/irecsys/CARSKit)  | Java  | RS (CARS)  | GPL  | Yong Zheng, Bamshad Mobasher, Robin Burke. "CARSKit: A Java-Based Context-aware Recommendation Engine", Proceedings of the 15th IEEE International Conference on Data Mining (ICDM) Workshops, pp. 1668-1671, Atlantic City, NJ, USA, Nov 2015  |
+| [CARSKit](https://github.com/irecsys/CARSKit)  | Java  | CARS  | GPL  | Yong Zheng, Bamshad Mobasher, Robin Burke. "CARSKit: A Java-Based Context-aware Recommendation Engine", Proceedings of the 15th IEEE International Conference on Data Mining (ICDM) Workshops, pp. 1668-1671, Atlantic City, NJ, USA, Nov 2015  |
 | [DeepCTR](https://github.com/shenweichen/deepctr) | Python | ML |  Apache 2.0  | Weichen Shen, DeepCTR: Easy-to-use,Modular and Extendible package of deep-learning based CTR models, 2017|
 | [EasyRec](https://github.com/alibaba/EasyRec)  | Python  | RS  | Apache-2.0  | EasyRec: An easy-to-use, extendable and efficient framework for building industrial recommendation systems, AAAI'23  |
 | [ELLIOT](https://github.com/sisinflab/elliot) | Tensorflow | RS|  Apache 2.0  |Anelli, Vito Walter and Bellogin, Alejandro and Ferrara, Antonio and Malitesta, Daniele and Merra, Felice Antonio and Pomo, Claudio and Donini, Francesco Maria and Di Noia, Tommaso, Elliot: A Comprehensive and Rigorous Framework for Reproducible Recommender Systems Evaluation, SIGIR'21 |
@@ -13,11 +13,12 @@
 | [LightFM](https://github.com/lyst/lightfm)  | Python  | RS | Apache 2.0  | Maciej Kula, Metadata Embeddings for User and Item Cold-start Recommendations. Proceedings of the 2nd Workshop on New Trends on Content-Based Recommender Systems co-located with 9th {ACM} Conference on Recommender Systems (RecSys 2015), Vienna, Austria, September 16-20, 2015.  |
 | [LibRec](https://github.com/guoguibing/librec)  | Java  | RS  | GPL  | Guo, Guibing, et al. "LibRec: A Java Library for Recommender Systems." UMAP Workshops. 2015.  |
 | [LensKit](http://lenskit.org/)  | Java  | RS  | LGPL  | Ekstrand, Michael D., et al. "LensKit: a modular recommender framework." Proceedings of the fifth ACM conference on Recommender systems. ACM, 2011.  |
-| [LODRecLib](https://github.com/sisinflab/lodreclib)  | Java  | RS (LOD)  | MIT  | Noia, Tommaso Di, et al. "Sprank: Semantic path-based ranking for top-n recommendations using linked open data." ACM Transactions on Intelligent Systems and Technology (TIST) 8.1 (2016): 9.  |
+| [LODRecLib](https://github.com/sisinflab/lodreclib)  | Java  | LODRS  | MIT  | Noia, Tommaso Di, et al. "Sprank: Semantic path-based ranking for top-n recommendations using linked open data." ACM Transactions on Intelligent Systems and Technology (TIST) 8.1 (2016): 9.  |
 | [libFM](http://www.libfm.org/)  | C++  | ML  | GPL  | Steffen Rendle (2012): Factorization Machines with libFM, in ACM Trans. Intell. Syst. Technol., 3(3), May  |
 | [MTRecLib](https://github.com/easezyc/Multitask-Recommendation-Library)  | PyTorch  | MTRS  |   | "Learning to Expand Audience via Meta Hybrid Experts and Critics for Recommendation and Advertising" KDD'21|
 | [MyMedialite](http://mymedialite.net/)  | C#  | RS  | GPL  | Gantner, Zeno, et al. "MyMediaLite: A free recommender system library." Proceedings of the fifth ACM conference on Recommender systems. ACM, 2011.  |
 | [Mahout](http://mahout.apache.org/)  | Java  | ML  | Apache 2.0  |   |
+| [MMRec](https://github.com/enoche/MMRec)  | Python  | MMRS  | GPL 3.0  |   |
 | [NeuRec](https://github.com/wubinzzu/NeuRec) | Python, Tensorflow |RS |  MIT |   |
 | [OpenLearning4DeepRecSys](https://github.com/Leavingseason/OpenLearning4DeepRecsys)  | Tensorflow  | RS |   |   |
 | [python-recsys](https://github.com/ocelma/python-recsys)  | Python  | RS  |   |   |
@@ -35,7 +36,8 @@
 
 - RS: Recommender System
 - MTRS: MultiTask RS
+- MMRS: MultiModal RS
 - ML: Machine Learning
 - SSL: Self Supervised Learning for RS
-- LOD: Linked Open Data
+- LODRS: Linked Open Data RS
 - CARS: Context-Aware Recommender System
