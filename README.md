@@ -23,6 +23,7 @@
 | [OpenLearning4DeepRecSys](https://github.com/Leavingseason/OpenLearning4DeepRecsys)  | Tensorflow  | RS |   |   |
 | [python-recsys](https://github.com/ocelma/python-recsys)  | Python  | RS  |   |   |
 | [QRec](https://github.com/Coder-Yu/QRec) | Tensorflow | RS|   | |
+| [recmetrics](https://github.com/statisticianinstilettos/recmetrics) | Python | Metrics | MIT | |
 | [Recommender-System](https://github.com/SSSxCCC/Recommender-System) | Tensorflow | RS |  MIT  ||
 | [RankSys](https://github.com/RankSys/RankSys)  | Java  | RS  |  MPL | https://github.com/RankSys/RankSys/wiki/References  |
 | [RankLib](https://sourceforge.net/p/lemur/wiki/RankLib/)  | Java  | RS | BSD  |   |
