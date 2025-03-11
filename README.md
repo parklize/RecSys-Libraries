@@ -30,6 +30,7 @@
 | [RecBole](https://github.com/RUCAIBox/RecBole) | PyTorch | RS|   MIT  | Wayne Xin Zhao et. al, RecBole: Towards a Unified, Comprehensive and Efficient Framework for Recommendation Algorithms, CIKM'21|
 | [recommenderlab](https://github.com/mhahsler/recommenderlab) | R | RS|     | Michael Hahsler (2022) recommenderlab: An R framework for developing and testing recommendation algorithms. arXiv:2205.12371 |
 | [SELFRec](https://github.com/Coder-Yu/SELFRec) | PyTorch, Tensorflow | SSL |   |Yu, Junliang et. al, [Self-Supervised Learning for Recommender Systems: A Survey](https://arxiv.org/abs/2203.15876) |
+| [Suprise](https://github.com/NicolasHug/Surprise) | Python | RS | BSD-3-Clause | Nicolas Hug, [Surprise: A Python library for recommender systems](https://joss.theoj.org/papers/10.21105/joss.02174)
 | [Tensorflow Recommenders](https://github.com/tensorflow/recommenders) | Tensorflow | RS|  Apache 2.0  | |
 | [TensorRec](https://github.com/jfkirk/tensorrec)  | Tensorflow  | RS  | Apache 2.0  |   |
 | [tffm](https://github.com/geffy/tffm)  | Tensorflow  | RS  | MIT  |   |
