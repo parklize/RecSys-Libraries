@@ -16,6 +16,7 @@
 | [LODRecLib](https://github.com/sisinflab/lodreclib)  | Java  | LODRS  | MIT  | Noia, Tommaso Di, et al. "Sprank: Semantic path-based ranking for top-n recommendations using linked open data." ACM Transactions on Intelligent Systems and Technology (TIST) 8.1 (2016): 9.  |
 | [libFM](http://www.libfm.org/)  | C++  | ML  | GPL  | Steffen Rendle (2012): Factorization Machines with libFM, in ACM Trans. Intell. Syst. Technol., 3(3), May  |
 | [MTRecLib](https://github.com/easezyc/Multitask-Recommendation-Library)  | PyTorch  | MTRS  |   | "Learning to Expand Audience via Meta Hybrid Experts and Critics for Recommendation and Advertising" KDD'21|
+| [Merlin](https://github.com/NVIDIA-Merlin/Merlin)  | Python  | RS  |   |  |
 | [MyMedialite](http://mymedialite.net/)  | C#  | RS  | GPL  | Gantner, Zeno, et al. "MyMediaLite: A free recommender system library." Proceedings of the fifth ACM conference on Recommender systems. ACM, 2011.  |
 | [Mahout](http://mahout.apache.org/)  | Java  | ML  | Apache 2.0  |   |
 | [MMRec](https://github.com/enoche/MMRec)  | Python  | MMRS  | GPL 3.0  | Hongyu Zhou, et al. "A Comprehensive Survey on Multimodal Recommender Systems: Taxonomy, Evaluation, and Future Directions". arXiv:2302.04473  |
